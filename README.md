@@ -1,3 +1,4 @@
+[![Math-Utility Project applying CI](https://github.com/HaiLeVN/math-util-mvn-se1711/actions/workflows/mathutil-ci.yml/badge.svg)](https://github.com/HaiLeVN/math-util-mvn-se1711/actions/workflows/mathutil-ci.yml)
 ### Welcome to Math Utility Project Repository
 
 ### You will find the following stuff in this Maven project:
@@ -12,5 +13,5 @@
 ### Connect me via haile112003@gmail.com
 
 #### Copyright &#169; 2023 hailevn
-[![Math-Utility Project applying CI](https://github.com/HaiLeVN/math-util-mvn-se1711/actions/workflows/mathutil-ci.yml/badge.svg)](https://github.com/HaiLeVN/math-util-mvn-se1711/actions/workflows/mathutil-ci.yml)
+
 
